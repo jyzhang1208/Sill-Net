@@ -1,0 +1,8 @@
+5 Overlap classes
+
+
+01 - adidas
+02 - adidas text
+04 - GUCCI text
+08 - Nike
+10 - PUMA

@@ -1,0 +1,6 @@
+Network type: sillnet
+Learning rate: 0.000100
+batch-size: 16
+img_cols: 64
+Augmentation type: flip, centercrop
+

@@ -1,0 +1,10 @@
+adidas0: 100
+chanel: 81
+gucci: 78
+hh: 80
+lacoste: 90
+mk: 78
+nike: 99
+prada: 84
+puma: 98
+supreme: 75

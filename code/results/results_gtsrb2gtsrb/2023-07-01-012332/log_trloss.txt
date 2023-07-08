@@ -1,0 +1,21 @@
+Network type: sillnet
+Learning rate: 0.000100
+batch-size: 16
+img_cols: 64
+Augmentation type: flip, centercrop
+
+Epoch:1  Batch:0/2670  loss:0.241540
+Epoch:1  Batch:1/2670  loss:0.237419
+Epoch:1  Batch:2/2670  loss:0.221823
+Epoch:1  Batch:3/2670  loss:0.202122
+Epoch:1  Batch:4/2670  loss:0.199093
+Epoch:1  Batch:5/2670  loss:0.192998
+Epoch:1  Batch:6/2670  loss:0.187712
+Epoch:1  Batch:7/2670  loss:0.169239
+Epoch:1  Batch:8/2670  loss:0.172876
+Epoch:1  Batch:9/2670  loss:0.178692
+Epoch:1  Batch:10/2670  loss:0.157040
+Epoch:1  Batch:11/2670  loss:0.167200
+Epoch:1  Batch:12/2670  loss:0.158781
+Epoch:1  Batch:13/2670  loss:0.138504
+Epoch:1  Batch:14/2670  loss:0.130195

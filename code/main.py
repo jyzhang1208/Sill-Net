@@ -32,7 +32,7 @@ parser.add_argument('--dataset',    type=str,   default='gtsrb2gtsrb', help='dat
 parser.add_argument('--exp',        type=str,   default='exp_list',     help='training scenario')
 parser.add_argument('--resume',     type=str,   default=None,           help='Resume training from previously saved model')
 
-parser.add_argument('--epochs',     type=int,   default=300,           help='Training epochs')
+parser.add_argument('--epochs',     type=int,   default=20,           help='Training epochs')
 parser.add_argument('--lr',         type=float, default=1e-4,           help='Learning rate')
 parser.add_argument('--batch_size', type=int,   default=16,            help='Batch size')
 

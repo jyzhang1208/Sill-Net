@@ -1,0 +1,11 @@
+Epoch:1  acc:0.686952
+Epoch:2  acc:0.818750
+Epoch:3  acc:0.894189
+Epoch:4  acc:0.875329
+Epoch:5  acc:0.889693
+Epoch:6  acc:0.888048
+Epoch:7  acc:0.889474
+Epoch:8  acc:0.917215
+Epoch:9  acc:0.881689
+Epoch:10  acc:0.865132
+Epoch:11  acc:0.901096

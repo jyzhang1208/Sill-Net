@@ -1,0 +1,2 @@
+Epoch:1  acc:0.032895
+Epoch:2  acc:0.032895

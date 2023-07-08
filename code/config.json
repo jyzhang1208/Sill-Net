@@ -1,19 +1,19 @@
 {
   "gtsrb":
   {
-    "data_path": "./db/"
+    "data_path": "../db/"
   },
   "gtsrb2gtsrb":
   {
-  	"data_path": "./db/"
+  	"data_path": "../db/"
   },
   "gtsrb2TT100K":
   {
-    "data_path": "./db/"
+    "data_path": "../db/"
   },
   "belga2flickr":
   {
-    "data_path": "./db/"
+    "data_path": "../db/"
   },
 
   "belga2toplogo":
@@ -22,10 +22,10 @@
   },
   "gtsrb2flickr":
   {
-    "data_path": "./db/"
+    "data_path": "../db/"
   },
   "gtsrb2toplogo":
   {
-    "data_path": "./db/"
+    "data_path": "../db/"
   }
 }

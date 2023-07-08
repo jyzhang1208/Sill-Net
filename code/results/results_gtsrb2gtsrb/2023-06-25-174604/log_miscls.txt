@@ -1,0 +1,252 @@
+Epoch:1  Batch:0/570  targ:tensor([22, 28, 29, 34, 16, 36, 36, 42])
+Epoch:1  Batch:0/570  pred:tensor([40, 40, 40, 40, 40,  6, 40,  6])
+
+Epoch:1  Batch:50/570  targ:tensor([34,  6])
+Epoch:1  Batch:50/570  pred:tensor([40, 20])
+
+Epoch:1  Batch:100/570  targ:tensor([37, 16, 20, 22, 19, 42])
+Epoch:1  Batch:100/570  pred:tensor([ 6, 40, 40, 40, 24,  6])
+
+Epoch:1  Batch:150/570  targ:tensor([39, 22])
+Epoch:1  Batch:150/570  pred:tensor([ 6, 40])
+
+Epoch:1  Batch:200/570  targ:tensor([42, 39, 20, 30, 30])
+Epoch:1  Batch:200/570  pred:tensor([23,  6, 29, 40, 40])
+
+Epoch:1  Batch:250/570  targ:tensor([30, 16, 21, 28, 28, 23, 16])
+Epoch:1  Batch:250/570  pred:tensor([40, 40, 40, 40, 24, 40, 40])
+
+Epoch:1  Batch:300/570  targ:tensor([30, 39, 29, 34, 40, 29])
+Epoch:1  Batch:300/570  pred:tensor([40,  6, 30,  6,  6, 40])
+
+Epoch:1  Batch:350/570  targ:tensor([28, 42, 34, 42, 20, 16])
+Epoch:1  Batch:350/570  pred:tensor([24,  6, 40, 23, 24, 40])
+
+Epoch:1  Batch:400/570  targ:tensor([32, 16, 40, 34])
+Epoch:1  Batch:400/570  pred:tensor([40,  6,  0,  0])
+
+Epoch:1  Batch:450/570  targ:tensor([41, 28, 23])
+Epoch:1  Batch:450/570  pred:tensor([16, 40, 30])
+
+Epoch:1  Batch:500/570  targ:tensor([24, 36, 20, 34, 20, 36])
+Epoch:1  Batch:500/570  pred:tensor([40, 40, 40,  6, 40,  6])
+
+Epoch:1  Batch:550/570  targ:tensor([42, 27, 23, 30])
+Epoch:1  Batch:550/570  pred:tensor([23, 24, 24, 34])
+
+Epoch:2  Batch:0/570  targ:tensor([16, 42, 40, 40])
+Epoch:2  Batch:0/570  pred:tensor([39, 36, 36,  6])
+
+Epoch:2  Batch:50/570  targ:tensor([39, 40, 22])
+Epoch:2  Batch:50/570  pred:tensor([21,  6,  6])
+
+Epoch:2  Batch:100/570  targ:tensor([20, 41])
+Epoch:2  Batch:100/570  pred:tensor([40, 32])
+
+Epoch:2  Batch:150/570  targ:tensor([21])
+Epoch:2  Batch:150/570  pred:tensor([23])
+
+Epoch:2  Batch:200/570  targ:tensor([20, 34, 30, 23, 30])
+Epoch:2  Batch:200/570  pred:tensor([28,  6, 42, 28, 41])
+
+Epoch:2  Batch:250/570  targ:tensor([37, 16, 16, 20, 40, 39])
+Epoch:2  Batch:250/570  pred:tensor([ 6,  6, 41, 36, 36, 36])
+
+Epoch:2  Batch:300/570  targ:tensor([23, 40, 30])
+Epoch:2  Batch:300/570  pred:tensor([ 6, 36, 28])
+
+Epoch:2  Batch:350/570  targ:tensor([40, 29, 20])
+Epoch:2  Batch:350/570  pred:tensor([36, 28, 36])
+
+Epoch:2  Batch:400/570  targ:tensor([39, 30])
+Epoch:2  Batch:400/570  pred:tensor([36, 40])
+
+Epoch:2  Batch:450/570  targ:tensor([ 0, 30])
+Epoch:2  Batch:450/570  pred:tensor([ 6, 40])
+
+Epoch:2  Batch:500/570  targ:tensor([34])
+Epoch:2  Batch:500/570  pred:tensor([6])
+
+Epoch:2  Batch:550/570  targ:tensor([42, 41, 16, 28, 36])
+Epoch:2  Batch:550/570  pred:tensor([36, 16, 39, 40,  6])
+
+Epoch:3  Batch:0/570  targ:tensor([28])
+Epoch:3  Batch:0/570  pred:tensor([40])
+
+Epoch:3  Batch:50/570  targ:tensor([32, 28])
+Epoch:3  Batch:50/570  pred:tensor([16, 40])
+
+Epoch:3  Batch:100/570  targ:tensor([6])
+Epoch:3  Batch:100/570  pred:tensor([28])
+
+Epoch:3  Batch:150/570  targ:tensor([23, 16, 23, 42])
+Epoch:3  Batch:150/570  pred:tensor([30, 41, 40, 39])
+
+Epoch:3  Batch:200/570  targ:tensor([36])
+Epoch:3  Batch:200/570  pred:tensor([37])
+
+Epoch:3  Batch:250/570  targ:tensor([32, 30, 30, 42, 41])
+Epoch:3  Batch:250/570  pred:tensor([39, 40, 40, 16, 16])
+
+Epoch:3  Batch:300/570  targ:tensor([23])
+Epoch:3  Batch:300/570  pred:tensor([40])
+
+Epoch:3  Batch:350/570  targ:tensor([23, 23, 32,  6])
+Epoch:3  Batch:350/570  pred:tensor([40, 40, 39, 30])
+
+Epoch:3  Batch:400/570  targ:tensor([30])
+Epoch:3  Batch:400/570  pred:tensor([40])
+
+Epoch:3  Batch:450/570  targ:tensor([42, 29])
+Epoch:3  Batch:450/570  pred:tensor([36, 40])
+
+Epoch:3  Batch:500/570  targ:tensor([32])
+Epoch:3  Batch:500/570  pred:tensor([40])
+
+Epoch:3  Batch:550/570  targ:tensor([41, 29])
+Epoch:3  Batch:550/570  pred:tensor([16, 40])
+
+Epoch:4  Batch:0/570  targ:tensor([29, 40])
+Epoch:4  Batch:0/570  pred:tensor([41,  6])
+
+Epoch:4  Batch:50/570  targ:tensor([34, 30])
+Epoch:4  Batch:50/570  pred:tensor([ 6, 40])
+
+Epoch:4  Batch:100/570  targ:tensor([23])
+Epoch:4  Batch:100/570  pred:tensor([40])
+
+Epoch:4  Batch:150/570  targ:tensor([], dtype=torch.int64)
+Epoch:4  Batch:150/570  pred:tensor([], dtype=torch.int64)
+
+Epoch:4  Batch:200/570  targ:tensor([6])
+Epoch:4  Batch:200/570  pred:tensor([42])
+
+Epoch:4  Batch:250/570  targ:tensor([30])
+Epoch:4  Batch:250/570  pred:tensor([40])
+
+Epoch:4  Batch:300/570  targ:tensor([23,  6, 32])
+Epoch:4  Batch:300/570  pred:tensor([40,  0, 16])
+
+Epoch:4  Batch:350/570  targ:tensor([23])
+Epoch:4  Batch:350/570  pred:tensor([6])
+
+Epoch:4  Batch:400/570  targ:tensor([40, 30])
+Epoch:4  Batch:400/570  pred:tensor([ 6, 40])
+
+Epoch:4  Batch:450/570  targ:tensor([40, 32])
+Epoch:4  Batch:450/570  pred:tensor([36,  6])
+
+Epoch:4  Batch:500/570  targ:tensor([], dtype=torch.int64)
+Epoch:4  Batch:500/570  pred:tensor([], dtype=torch.int64)
+
+Epoch:4  Batch:550/570  targ:tensor([30])
+Epoch:4  Batch:550/570  pred:tensor([40])
+
+Epoch:6  Batch:0/570  targ:tensor([40])
+Epoch:6  Batch:0/570  pred:tensor([37])
+
+Epoch:6  Batch:50/570  targ:tensor([30])
+Epoch:6  Batch:50/570  pred:tensor([42])
+
+Epoch:6  Batch:100/570  targ:tensor([40])
+Epoch:6  Batch:100/570  pred:tensor([6])
+
+Epoch:6  Batch:150/570  targ:tensor([], dtype=torch.int64)
+Epoch:6  Batch:150/570  pred:tensor([], dtype=torch.int64)
+
+Epoch:6  Batch:200/570  targ:tensor([40, 30, 30])
+Epoch:6  Batch:200/570  pred:tensor([39,  6, 24])
+
+Epoch:6  Batch:250/570  targ:tensor([34, 20, 30,  6])
+Epoch:6  Batch:250/570  pred:tensor([24,  0, 24, 16])
+
+Epoch:6  Batch:300/570  targ:tensor([24])
+Epoch:6  Batch:300/570  pred:tensor([27])
+
+Epoch:6  Batch:350/570  targ:tensor([42])
+Epoch:6  Batch:350/570  pred:tensor([23])
+
+Epoch:6  Batch:400/570  targ:tensor([], dtype=torch.int64)
+Epoch:6  Batch:400/570  pred:tensor([], dtype=torch.int64)
+
+Epoch:6  Batch:450/570  targ:tensor([24, 30])
+Epoch:6  Batch:450/570  pred:tensor([6, 6])
+
+Epoch:6  Batch:500/570  targ:tensor([21])
+Epoch:6  Batch:500/570  pred:tensor([27])
+
+Epoch:6  Batch:550/570  targ:tensor([30])
+Epoch:6  Batch:550/570  pred:tensor([28])
+
+Epoch:8  Batch:0/570  targ:tensor([], dtype=torch.int64)
+Epoch:8  Batch:0/570  pred:tensor([], dtype=torch.int64)
+
+Epoch:8  Batch:50/570  targ:tensor([ 6,  6, 40, 42])
+Epoch:8  Batch:50/570  pred:tensor([ 0, 21,  6, 21])
+
+Epoch:8  Batch:100/570  targ:tensor([30])
+Epoch:8  Batch:100/570  pred:tensor([40])
+
+Epoch:8  Batch:150/570  targ:tensor([21])
+Epoch:8  Batch:150/570  pred:tensor([27])
+
+Epoch:8  Batch:200/570  targ:tensor([29, 30, 42])
+Epoch:8  Batch:200/570  pred:tensor([40, 40, 21])
+
+Epoch:8  Batch:250/570  targ:tensor([22])
+Epoch:8  Batch:250/570  pred:tensor([32])
+
+Epoch:8  Batch:300/570  targ:tensor([ 6, 40, 40])
+Epoch:8  Batch:300/570  pred:tensor([40, 36, 36])
+
+Epoch:8  Batch:350/570  targ:tensor([16, 29])
+Epoch:8  Batch:350/570  pred:tensor([41, 32])
+
+Epoch:8  Batch:400/570  targ:tensor([], dtype=torch.int64)
+Epoch:8  Batch:400/570  pred:tensor([], dtype=torch.int64)
+
+Epoch:8  Batch:450/570  targ:tensor([23, 23,  6])
+Epoch:8  Batch:450/570  pred:tensor([30,  6, 21])
+
+Epoch:8  Batch:500/570  targ:tensor([], dtype=torch.int64)
+Epoch:8  Batch:500/570  pred:tensor([], dtype=torch.int64)
+
+Epoch:8  Batch:550/570  targ:tensor([29, 23, 34])
+Epoch:8  Batch:550/570  pred:tensor([21, 40,  6])
+
+Epoch:10  Batch:0/570  targ:tensor([23, 42])
+Epoch:10  Batch:0/570  pred:tensor([40, 21])
+
+Epoch:10  Batch:50/570  targ:tensor([ 6, 30])
+Epoch:10  Batch:50/570  pred:tensor([21, 32])
+
+Epoch:10  Batch:100/570  targ:tensor([30])
+Epoch:10  Batch:100/570  pred:tensor([32])
+
+Epoch:10  Batch:150/570  targ:tensor([40])
+Epoch:10  Batch:150/570  pred:tensor([6])
+
+Epoch:10  Batch:200/570  targ:tensor([29])
+Epoch:10  Batch:200/570  pred:tensor([21])
+
+Epoch:10  Batch:250/570  targ:tensor([34, 30, 29, 40])
+Epoch:10  Batch:250/570  pred:tensor([ 6, 37, 32, 37])
+
+Epoch:10  Batch:300/570  targ:tensor([42, 40])
+Epoch:10  Batch:300/570  pred:tensor([21, 36])
+
+Epoch:10  Batch:350/570  targ:tensor([30, 40,  6])
+Epoch:10  Batch:350/570  pred:tensor([32, 32, 21])
+
+Epoch:10  Batch:400/570  targ:tensor([40,  6])
+Epoch:10  Batch:400/570  pred:tensor([ 6, 21])
+
+Epoch:10  Batch:450/570  targ:tensor([34, 34, 29, 27])
+Epoch:10  Batch:450/570  pred:tensor([30, 27, 40, 24])
+
+Epoch:10  Batch:500/570  targ:tensor([22])
+Epoch:10  Batch:500/570  pred:tensor([32])
+
+Epoch:10  Batch:550/570  targ:tensor([6, 6])
+Epoch:10  Batch:550/570  pred:tensor([21, 42])
+
